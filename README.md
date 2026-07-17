@@ -16,8 +16,4 @@ CS undergrad | Flutter, Python, ML
 **ML/AI:** PyTorch, Hugging Face, Computer Vision, Deep Learning  
 **Cloud & Tools:** GCP (Cloud Run, Firestore, BigQuery), Docker, Kubernetes, WandB, Git
 
----
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anamika457&theme=default)
