@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Anamika 👋
 
-<!--
-**Anamika457/Anamika457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad | Flutter, Python, ML 
 
-Here are some ideas to get you started:
+- B.Tech CSE @ Amrita Vishwa Vidyapeetham
+- Building full-stack & mobile apps (Flutter), backend systems, and ML pipelines
+- Contributing to open-source projects **sktime** and **DeepChem**
+- Reach me at anamikavmenon1@gmail.com | [LinkedIn](https://linkedin.com/in/anamika-v-menon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, C, SQL  
+**Mobile/Frontend:** Flutter  
+**ML/AI:** PyTorch, Hugging Face, Computer Vision, Deep Learning  
+**Cloud & Tools:** GCP (Cloud Run, Firestore, BigQuery), Docker, Kubernetes, WandB, Git
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anamika457&theme=default)
