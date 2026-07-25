@@ -84,7 +84,7 @@ Explores **parameter-efficient fine-tuning** of Vision-Language Models using **L
 <br/>
 
 ## GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anamika457&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika457&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" /> <br/> <img src="https://streak-stats.demolab.com/?user=Anamika457&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" /> </div> <br/>
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anamika457&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika457&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" /> <br/> <img src="https://streak-stats.demolab.com?user=Anamika457&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&sideNums=00FF9C&currStreakNum=FFFFFF" /> </div> <br/>
 
 ## Currently
 
