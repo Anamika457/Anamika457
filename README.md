@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anamika+%F0%9F%91%8B;ML+Engineer+%7C+Mobile+Developer;Building+Explainable+%26+On-Device+AI;Neuro-Symbolic+Systems+%7C+Vision-Language+Models" alt="Typing SVG" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anamika+%F0%9F%91%8B;ML+Engineer+%7C+Mobile+Developer;Building+Explainable+%26+On-Device+AI" alt="Typing SVG" /> <br/>
 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-00FF9C?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anamika-v-menon/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-profile-00FF9C?style=flat-square&logo=kaggle&logoColor=black)](https://www.kaggle.com/anamikav12)
