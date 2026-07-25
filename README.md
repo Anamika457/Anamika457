@@ -36,7 +36,6 @@ whoami:
 
 **Mobile & App Dev**
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00FF9C)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF9C)
 ![Android](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android&logoColor=00FF9C)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF9C)
@@ -44,7 +43,7 @@ whoami:
 **Core**
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
+![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FF9C)
 
@@ -80,6 +79,19 @@ Explores **parameter-efficient fine-tuning** of Vision-Language Models using **L
 </td>
 </tr>
 </table>
+
+<br/>
+
+## Open Source Contributions
+
+<div align="center">
+
+[![DeepChem](https://img.shields.io/badge/Contributor-DeepChem-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/deepchem/deepchem)
+[![sktime](https://img.shields.io/badge/Contributor-sktime-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sktime/sktime)
+
+</div>
+
+Contributing to **DeepChem**, an open-source toolkit for drug discovery and molecular ML, and **sktime**, a unified framework for time series machine learning in Python.
 
 <br/>
 
